@@ -1,0 +1,8 @@
+{
+  "short_name": "ra-auth-firebase-client",
+  "name": "ra-auth-firebase-client",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
